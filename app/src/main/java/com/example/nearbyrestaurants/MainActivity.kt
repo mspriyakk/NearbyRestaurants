@@ -44,3 +44,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+//slide 23  and slide 24  and slide 26
